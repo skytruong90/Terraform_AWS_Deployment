@@ -30,7 +30,7 @@ This section outlines the basic Terraform setup needed to deploy the application
 3. **Execution Plan:** Terraform will perform the plan to ensure the execution will result as expected.
 4. **Apply Changes:** Execute the plan to create the defined resources.
 
-### Example Terraform Configuration
+### Terraform Configuration
 
 ```hcl
 provider "aws" {
