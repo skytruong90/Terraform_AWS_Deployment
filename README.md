@@ -1,4 +1,3 @@
-
 # Terraform AWS Deployment of a Web Application
 
 ## Introduction
